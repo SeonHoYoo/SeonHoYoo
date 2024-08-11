@@ -1,12 +1,14 @@
 # SeonHo Yoo
-💬 If you ask for as much as 100 help, help more than 120.
+💬 **If you ask for as much as 100 help, help more than 120.**
 
 <br>
 
 ## 🌐 Link
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoyoo2004@gmail.com)](mailto:leoyoo2004@gmail.com)
-[![Notion Badge](https://img.shields.io/badge/-Notion-dd2a7b?style=flat-square&logo=notion&logoColor=white&link=seonhoyoo.notion.site)](seonhoyoo.notion.site) 
+[![Notion Badge](https://img.shields.io/badge/-Notion-dd2a7b?style=flat-square&logo=notion&logoColor=white&link=https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4)](https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4) 
 [![Tistory Badge](http://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=FF5722&link=https://dsdiary.tistory.com/)](https://dsdiary.tistory.com/)
+
+**More information can be found on the Notion page.**
 
 <br>
 

@@ -1,5 +1,4 @@
 # SeonHo Yoo
-💬 **If you ask for as much as 100 help, help more than 120.**
 
 <br>
 

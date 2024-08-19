@@ -1,7 +1,7 @@
 # SeonHo Yoo
 💬 **If you ask for as much as 100 help, help more than 120.**
 
-<br>
+<br> 
 
 ## 🌐 Link
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoyoo2004@gmail.com)](mailto:leoyoo2004@gmail.com)

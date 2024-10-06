@@ -25,8 +25,11 @@
 
 **[2024.02 ~ 2025.02] 고려대학교 SK LOOKIE 인준 소셜 벤처 창업 동아리, 호랑불 회장/대외협력 PL** 
 
+**[2024.03 ~ 2024.08] 빅데이터 분석 학회 B.D.A 8기 우수 학회원**
+
 **[2024.05 ~ 2024.12] 고려대학교 Student Success Center 서포터즈 데이터 분석팀**
 
+**[2024.05 ~ 2024.12] 고려대학교 SAVANNA(Supply Chain & Value Network Analytics Lab) 인턴 연구원**
 <br>
 
 ## ☑️ Club & Institute
@@ -51,6 +54,8 @@
 **ITQ 정보기술자격 아래한글, 한글파워포인트, 한글엑셀**
 
 **GAIQ(Google Analytics Individual Qualification) 고급**
+
+**데이터분석 준전문가(ADsP)**
 
 
 

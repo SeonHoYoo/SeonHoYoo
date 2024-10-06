@@ -30,6 +30,7 @@
 **[2024.05 ~ 2024.12] 고려대학교 Student Success Center 서포터즈 데이터 분석팀**
 
 **[2024.05 ~ 2024.12] 고려대학교 SAVANNA(Supply Chain & Value Network Analytics Lab) 인턴 연구원**
+
 <br>
 
 

@@ -7,7 +7,6 @@
 [![Notion Badge](https://img.shields.io/badge/-Notion-dd2a7b?style=flat-square&logo=notion&logoColor=white&link=https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4)](https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr)](https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr)
 [![Tistory Badge](http://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=FF5722&link=https://dsdiary.tistory.com/)](https://dsdiary.tistory.com/)
-
 <br> 
 
 ## About Me

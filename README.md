@@ -1,22 +1,38 @@
-# SeonHo Yoo
-💬 **If you ask for as much as 100 help, help more than 120.**
+# SeonHo Yoo 유선호
+#### 💬 If you ask for as much as 100 help, help more than 120. 
+**한계없는** **대체할 수 없는** **최고의** 데이터 사이언티스트/리서처를 꿈꾸는 **유선호**입니다.
 
-<br> 
-
-## 🌐 Link
+#### 📧 Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoyoo2004@gmail.com)](mailto:leoyoo2004@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/-Notion-dd2a7b?style=flat-square&logo=notion&logoColor=white&link=https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4)](https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr)](https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr)
 [![Tistory Badge](http://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=FF5722&link=https://dsdiary.tistory.com/)](https://dsdiary.tistory.com/)
 
-**More information can be found on the Notion page.**
+<br> 
+
+## About Me
+🎓 **Education**
+- <code>2020.02 ~ 2023.02</code> Kangwon Science High School
+- <code>2023.03 ~ </code> Korea University(고려대학교) | Industrial and Management Engineering
+
+💼 **Career**
+- <code>2024.09 ~ 2025.01</code> 고려대학교 산업경영공학과 SAVANNA(Supply Chain & Value Network Analytics Lab) 인턴 연구원
+
+🪪 **Certificates**
+- ITQ 정보기술자격 아래한글, 한글파워포인트, 한글엑셀
+- GAIQ(Google Analytics Individual Qualification) 고급
+- 데이터분석 준전문가(ADsP)
+
+🏆 **Prizes**
+- <code>2021.10</code> 산업통상자원부. 제67회 전국과학전람회 산업 및 에너지(SW,IT 융합분야포함) 부문 우수상
+- <code>2023.08</code> 대한산업공학회. 2023 FIELD CAMP Competition “학령인구 분석을 통한 공공교육시설 위치 최적화” 우수상
+- <code>2024.08</code> 고려대학교 산업경영공학부x연세대학교 산업공학과. 2024 고대x연대 산공 학술교류제 우수상
+
+
+## Skills & Tools
+
 
 <br>
-
-## ☑️ Education
-**[2020.02 ~ 2023.02] Kangwon Science High School**
-
-**[2023.03 ~ ] Korea University. Industrial and Management Engineering**
 
 <br>
 
@@ -41,14 +57,6 @@
 
 **[2023.09 ~ 2025.02] 고려대학교 SK LOOKIE 인준 소셜 벤처 창업 동아리, 호랑불 7.5기**
 
-<br>
-
-## 🏆 Prizes
-**산업통상자원부. 제67회 전국과학전람회 산업 및 에너지(SW,IT 융합분야포함) 부문 우수상**
-
-**대한산업공학회. 2023 FIELD CAMP Competition “학령인구 분석을 통한 공공교육시설 위치 최적화” 우수상**
-
-**고려대학교 산업경영공학부x연세대학교 산업공학과. 2024 고대x연대 산공 학술교류제 우수상**
 
 <br>
 

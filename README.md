@@ -32,6 +32,7 @@
 **[2024.05 ~ 2024.12] 고려대학교 SAVANNA(Supply Chain & Value Network Analytics Lab) 인턴 연구원**
 <br>
 
+
 ## ☑️ Club & Institute
 **[2023.03 ~ ] 고려대학교 산업경영공학부 학술동아리, 위티(WeTIE) 11, 12, 13기**
 

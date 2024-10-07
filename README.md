@@ -1,4 +1,5 @@
 # SeonHo Yoo 유선호
+
 #### 💬 If you ask for as much as 100 help, help more than 120. 
 **한계없는** **대체할 수 없는** **최고의** 데이터 사이언티스트/리서처를 꿈꾸는 **유선호**입니다.
 
@@ -7,7 +8,8 @@
 [![Notion Badge](https://img.shields.io/badge/-Notion-dd2a7b?style=flat-square&logo=notion&logoColor=white&link=https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4)](https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr)](https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr)
 [![Tistory Badge](http://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=FF5722&link=https://dsdiary.tistory.com/)](https://dsdiary.tistory.com/)
-<br> 
+
+![SeonHoYoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeonHoYoo&show_icons=true&theme=highcontrast&width=50)
 
 ## About Me
 🎓 **Education**
@@ -55,9 +57,16 @@
 📘 **Environment**
 
 <img src="https://camo.githubusercontent.com/f45371386161ee8384ecab25ca6a3e4fd44d06ac2d139f39240d8eb72b4ed3ee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722d4633373632363f7374796c653d666c6174266c6f676f3d4a757079746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jupyter-F37626?style=flat&amp;logo=Jupyter&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/bccdbad45bb89d5179a1af793ff672e96c76c1b45b3a46679c5149f3e9f51df7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436f6c61622d4639414230303f7374796c653d666c6174266c6f676f3d676f6f676c65636f6c6162266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&amp;logo=googlecolab&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/54b39b32d81b640efb103cb082ee33f997f54fbfb8bfd311f29ed48fffa64c43/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030374143433f7374796c653d666c6174266c6f676f3d76697375616c73747564696f636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&amp;logo=visualstudiocode&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/1cd3e34b21c296a18feed3f4defa6feff95fccaf5205869949570e619375f657/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5253747564696f2d3735414144423f7374796c653d666c6174266c6f676f3d5253747564696f266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/RStudio-75AADB?style=flat&amp;logo=RStudio&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/7b1310deebc2c8a1891219214194d3bcb4dd23f12f623d44d403f99b448c0903/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769746875622d3138313731373f7374796c653d666c6174266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Github-181717?style=flat&amp;logo=Github&amp;logoColor=white" style="max-width: 100%;"> <img src="https://camo.githubusercontent.com/ceb49223237d836dd0a104f59bdaa157c8dd5cb82849152ff49ef131d9be1a14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74696f6e2d3030303030303f7374796c653d666c6174266c6f676f3d4e6f74696f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Notion-000000?style=flat&amp;logo=Notion&amp;logoColor=white" style="max-width: 100%;">
+<br>
 
 
-  
+## Solved.ac
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leoyoo2004)](https://solved.ac/leoyoo2004)
+<!--
+![SeonHoYoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeonHoYoo&show_icons=true&theme=highcontrast)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeonHoYoo&layout=compact&theme=highcontrast)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=leoyoo2004)](https://solved.ac/leoyoo2004)
+
 <!--
 **SeonHoYoo/SeonHoYoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

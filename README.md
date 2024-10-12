@@ -10,7 +10,7 @@
 [![Tistory Badge](http://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=FF5722&link=https://dsdiary.tistory.com/)](https://dsdiary.tistory.com/)
 
 ![SeonHoYoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeonHoYoo&show_icons=true&theme=highcontrast&width=50)
-
+   
 ## About Me
 🎓 **Education**
 - <code>2023.03 ~ </code> Korea University(고려대학교) | Industrial and Management Engineering

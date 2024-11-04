@@ -11,7 +11,7 @@
 
 ![SeonHoYoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeonHoYoo&show_icons=true&theme=highcontrast&width=50)
    
-## About Me
+## About Me 
 🎓 **Education**
 - <code>2023.03 ~ </code> Korea University(고려대학교) | Industrial and Management Engineering
 - <code>2020.02 ~ 2023.02</code> Kangwon Science High School

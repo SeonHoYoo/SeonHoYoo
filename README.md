@@ -1,7 +1,7 @@
 # SeonHo Yoo 유선호
   
 #### 💬 If you're asked for 100% effort, give more than 120%.
-**한계없는** **성장 지향적인** **대체할 수 없는** 데이터 사이언티스트/리서처를 꿈꾸는 **유선호**입니다.
+**한계없는** **성장 지향적인** **대체할 수 없는** **AI Researcher**를 꿈꾸는 **유선호**입니다.
   
 #### 📧 Contact 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leoyoo2004@gmail.com)](mailto:leoyoo2004@gmail.com)

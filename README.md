@@ -9,6 +9,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr)](https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr)
 [![Tistory Badge](http://img.shields.io/badge/-Tistory-brightgreen?style=flat-square&logo=white&link=https://dsdiary.tistory.com/)](https://dsdiary.tistory.com/)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonHoYoo&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ## About Me 
 🎓 **Education**
 - <code>2023.03 ~ </code> Korea University(고려대학교) | Industrial and Management Engineering
@@ -76,8 +78,6 @@
 </tr>
 </thead>
 </table></markdown-accessiblity-table>
-
-<tr><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonHoYoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></tr>
 
 <!--
 ![SeonHoYoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeonHoYoo&show_icons=true&theme=highcontrast)

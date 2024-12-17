@@ -2,14 +2,13 @@
   
 #### 💬 If you're asked for 100% effort, give more than 120%.
 **한계없는** **성장 지향적인** **대체할 수 없는** **AI Researcher**를 꿈꾸는 **유선호**입니다.
-  
-#### 📧 Contact 
+
 <a href="mailto:leoyoo2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:leoyoo2004@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr"/></a>
 <a href="https://dsdiary.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat&logo=Tistory&logoColor=white&link=https://dsdiary.tistory.com/"/></a>
 <a href="https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4"/></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonHoYoo&count_bg=%23000000&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonHoYoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## About Me 
 🎓 **Education**

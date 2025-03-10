@@ -16,16 +16,20 @@
 - <code>2020.02 ~ 2023.02</code> Kangwon Science High School
 
 💼 **Career**
-- <code>2024.09 ~ 2025.01</code> 고려대학교 산업경영공학과 SAVANNA(Supply Chain & Value Network Analytics Lab) 인턴 연구원
+- <code>2024.09 ~ 2025.08</code> 고려대학교 산업경영공학과 SAVANNA(Supply Chain & Value Network Analytics Lab) 인턴 연구원
  
-🔬 **Research**
+🔬 **Research Projects**
+- <code>2025.03 ~ 2025.08</code> “미래형 물류 및 주선의 다중 공급망 통합 최적화 연구: 5PL 플랫폼 기반의 지능형 라스트 마일-미들 마일 통합 및 고도화 알고리즘 연구,” 한국연구재단(개인기초 – 중견연구)
+- <code>2024.09 ~ 2025.01</code> “지속가능한 도심 배달 서비스를 위한 전기 이륜차 배터리 교환소 위치 선정 연구,” (LINC 3.0) 산학공동기술개발과제
+  
+🗣️ **Conference Presentation**
 - 지속가능한 도심 배달 서비스를 위한 전기 이륜차 배터리 교환소 위치 선정 연구. 2024 한국SCM학회 추계학술대회.
 - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964550">지속가능한 도심 배달 서비스를 위한 데이터 기반의 전기 이륜차 배터리 교환소 위치 최적화. 2024 대한산업공학회 추계학술대회.</a>
 - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964467">스택 및 컨베이어 변수에 따른 강화학습 기반 3차원 적재 문제의 용적률 분석. 2024 대한산업공학회 추계학술대회.</a>
   
 📚 **Experience**
 - <code>2023.10 ~ 2024.10</code> 고려대학교 산업경영공학부 제41대 부학생회장
-- <code>2023.03 ~ 2024.12</code> 고려대학교 산업경영공학부 학술동아리, 위티(WeTIE) 11, 12, 13, 14기
+- <code>2023.03 ~ 2025.06</code> 고려대학교 산업경영공학부 학술동아리, 위티(WeTIE) 11, 12, 13, 14, 15기
 - <code>2023.07 ~ 2024.01</code> 고려대학교 제15회 자기주도 창의설계 프로그램
 - <code>2023.08 ~ 2023.08</code> FIELD Camp Competition 15기
 - <code>2023.08 ~ 2023.08</code> 코드잇 대학생 코딩 캠프 12기

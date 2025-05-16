@@ -23,9 +23,10 @@
 - <code>2024.09 ~ 2025.01</code> “지속가능한 도심 배달 서비스를 위한 전기 이륜차 배터리 교환소 위치 선정 연구,” (LINC 3.0) 산학공동기술개발과제
   
 🗣️ **Conference Presentation**
+- 클러스터링 및 데이터 증강 기반 전기 이륜차 배터리 교환 수요 예측 개선 연구. 2025 한국SCM학회 춘계학술대회. (1저자)
 - 지속가능한 도심 배달 서비스를 위한 전기 이륜차 배터리 교환소 위치 선정 연구. 2024 한국SCM학회 추계학술대회.
 - <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964550">지속가능한 도심 배달 서비스를 위한 데이터 기반의 전기 이륜차 배터리 교환소 위치 최적화. 2024 대한산업공학회 추계학술대회.</a>
-- <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964467">스택 및 컨베이어 변수에 따른 강화학습 기반 3차원 적재 문제의 용적률 분석. 2024 대한산업공학회 추계학술대회.</a>
+- <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11964467">스택 및 컨베이어 변수에 따른 강화학습 기반 3차원 적재 문제의 용적률 분석. 2024 대한산업공학회 추계학술대회. (1저자) </a>
   
 📚 **Experience**
 - <code>2023.10 ~ 2024.10</code> 고려대학교 산업경영공학부 제41대 부학생회장

@@ -8,8 +8,8 @@
 <a href="https://dsdiary.tistory.com/"><img src="https://img.shields.io/badge/Tistory-orange?style=flat&logo=Tistory&logoColor=white&link=https://dsdiary.tistory.com/"/></a>
 <a href="https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://seonhoyoo.notion.site/SeonHo-Yoo-808ec3fddce24937b676c12386dabf55?pvs=4"/></a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonHoYoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
-
+<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonHoYoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 ## About Me 
 🎓 **Education**
 - <code>2023.03 ~ </code> Korea University(고려대학교) | Industrial and Management Engineering

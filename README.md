@@ -10,6 +10,8 @@
 
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeonHoYoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
+
+<!-- 
 ## About Me 
 🎓 **Education**
 - <code>2023.03 ~ </code> Korea University(고려대학교) | Industrial and Management Engineering
@@ -54,7 +56,7 @@
 - GAIQ(Google Analytics Individual Qualification) 고급
 - ITQ 정보기술자격 아래한글, 한글파워포인트, 한글엑셀
 
-  
+  -->
 
 <!-- 
 ## Skills & Tools

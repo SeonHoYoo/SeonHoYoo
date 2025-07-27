@@ -1,7 +1,7 @@
 # SeonHo Yoo 유선호
   
 #### 💬 If you're asked for 100% effort, give more than 120%.
-**한계없는** **성장 지향적인** **대체할 수 없는** **AI Researcher**를 꿈꾸는 **유선호**입니다. 
+#### I'm **SeonHo Yoo**, and I aspire to become an **AI researcher** who is **boundless**, **growth-driven**, and **irreplaceable**.
 
 <a href="mailto:leoyoo2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white&link=mailto:leoyoo2004@gmail.com"/></a>
 <a href="https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr"><img src="https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seonhoyoo/?originalSubdomain=kr"/></a>
